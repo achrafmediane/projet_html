@@ -1,0 +1,56 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body{
+  overflow-x: hidden;
+}
+.divparent {
+  background-image: url("https://img.freepik.com/photos-premium/table-travail-bureau-noire-ordinateur-portable-fournitures-bureau-espace-copie_67155-1704.jpg?size=626&ext=jpg&ga=GA1.2.303539292.1706530146&semt=ais");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  width: 1536px;
+  height: 675px;
+}
+.box {
+  padding-top: 110px;
+}
+.all-paragraph,
+.all-btn {
+  margin-right: 750px;
+}
+h1.first-paragraph {
+  color: white;
+  padding-top: 100px;
+}
+h1.second-paragraph {
+  color: rgb(235, 184, 17);
+  padding-top: 20px;
+}
+.paragraph1 {
+  color: rgb(186, 186, 186);
+  padding: 20px 0;
+}
+.button {
+  width: 50px;
+  height: 50px;
+  background: transparent;
+  border: 1px white solid;
+}
+.btn {
+  padding: 0 10px;
+}
+a {
+  text-decoration: none;
+  color: gray;
+  padding: 0 30px;
+}
+a:hover {
+  color: rgb(235, 184, 17);
+}
+.all-link {
+  padding: 20px 0;
+  text-align: center;
+  border: 2px solid rgb(222, 221, 221);
+}
